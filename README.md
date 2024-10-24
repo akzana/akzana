@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has from information analysis jobs to a software engineering career. I enjoy development because I want to create technologies for users to bring them dignity and independence. I enjoy participating in hackathons. 
+I’m a full-stack developer who has from information analysis jobs to a software engineering career. I enjoy development because I want to create technologies for users to bring them dignity and independence. I can't wait to participate in the next hackathon. 
   
   
 
