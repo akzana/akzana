@@ -26,7 +26,7 @@ I’m a full-stack developer who has from information analysis jobs to a softwar
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="75%">
+<table><tr><td valign="top" width="100%">
 
 - 👾 I’m currently working on [Wheel of the Year: A Capstone Project](https://github.com/akzana/wheel-of-the-year)  
   
