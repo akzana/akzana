@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has from information analysis jobs to a software engineering career. I enjoy development because I want to create technologies for users to bring them dignity and independence. I can't wait to participate in the next hackathon. 
+I’m a full-stack developer who has shifted from information analysis to a software engineering career. I enjoy development because I want to create technologies for users to bring them dignity and independence. I can't wait to participate in the next hackathon. 
   
   
 
@@ -34,7 +34,7 @@ I’m a full-stack developer who has from information analysis jobs to a softwar
 - 🌱 I’m currently learning React, npm, and Node.js  
   
 
-- ⚡ Fun fact: after my fist hackathon, I started a company with my team  
+- ⚡ Fun fact: after my first hackathon, I started a company with my team  
 
 
 </td><td valign="top" width="0%">
