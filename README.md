@@ -28,10 +28,10 @@ I’m a full-stack developer who has shifted from information analysis to a soft
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 👾 I’m currently working on [Wheel of the Year: A Capstone Project](https://github.com/akzana/wheel-of-the-year)  
+- 👾 I’m currently working on [Frog Stream: A Capstone Project](https://github.com/akzana/frog-stream-capstone) 
   
 
-- 🌱 I’m currently learning React, npm, and Node.js  
+- 🌱 I’m currently learning express, OAuth, DNS
   
 
 - ⚡ Fun fact: after my first hackathon, I started a company with my team  
