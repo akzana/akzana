@@ -37,10 +37,6 @@ I’m a full-stack developer who has shifted from information analysis to a soft
 - ⚡ Fun fact: after my first hackathon, I started a company with my team  
 
 
-</td><td valign="top" width="0%">
-
-
-
 </td></tr></table>  
 
 <br/>  
