@@ -91,4 +91,4 @@ I’m a full-stack developer who has shifted from information analysis to a soft
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Thank you to the creators of <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
