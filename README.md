@@ -28,10 +28,10 @@ I’m a full-stack developer who has shifted from information analysis to a soft
 ## Rapidfire  
 
 
-- 👾 I’m currently working on [Frog Stream: A Capstone Project](https://github.com/akzana/frog-stream-capstone) 
+- 👾 I’m currently working on [My Portfolio](https://github.com/akzana/akzana-portfolio) 
   
 
-- 🌱 I’m currently learning socket.io and Netlify
+- 🌱 I’m currently learning Ruby on Rails & Next.JS
   
 
 - ⚡ Fun fact: after my first hackathon, I started a company with my team  
