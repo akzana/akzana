@@ -28,10 +28,10 @@ I’m a full-stack developer who has shifted from information analysis to a soft
 ## Rapidfire  
 
 
-- 👾 I’m currently working on [My Portfolio](https://github.com/akzana/akzana-portfolio) 
+- 👾 I’m currently working on Intro to React Queer 4 Queer Workshop in partnership with Oaklands Community Centre
   
 
-- 🌱 I’m currently learning Ruby on Rails & Next.JS
+- 🌱 I’m currently learning through FreeCodeCamp's certificate
   
 
 - ⚡ Fun fact: after my first hackathon, I started a company with my team  
